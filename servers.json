@@ -4,11 +4,11 @@
       "id": "survival",
       "name": "服务器一",
       "title": "生存服",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "packs": [
-        "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.6/yunlan-client-1.0.6.mrpack",
-        "https://gh-proxy.com/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.6/yunlan-client-1.0.6.mrpack",
-        "https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.6/yunlan-client-1.0.6.mrpack"
+        "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.7/yunlan-client-1.0.7.mrpack",
+        "https://gh-proxy.com/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.7/yunlan-client-1.0.7.mrpack",
+        "https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.7/yunlan-client-1.0.7.mrpack"
       ]
     }
   ]
