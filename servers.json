@@ -1,16 +1,11 @@
 {
   "servers": [
     {
+      "id": "survival",
       "name": "服务器一",
+      "title": "生存服",
       "version": "1.0.0",
-      "url": "",
-      "note": "名称与下载地址待配置"
-    },
-    {
-      "name": "服务器二",
-      "version": "1.0.0",
-      "url": "",
-      "note": "名称与下载地址待配置"
+      "pack": "https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.0/yunlan-client-1.0.0.mrpack"
     }
   ]
 }
