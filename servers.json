@@ -4,12 +4,12 @@
       "id": "cuniculum",
       "name": "服务器一",
       "title": "CUNICULUM",
-      "version": "2.0.3",
+      "version": "2.0.4",
       "address": "frp-art.com:60758",
       "packs": [
-        "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v2.0.3/cuniculum-2.0.3.mrpack",
-        "https://gh-proxy.com/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v2.0.3/cuniculum-2.0.3.mrpack",
-        "https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v2.0.3/cuniculum-2.0.3.mrpack"
+        "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v2.0.4/cuniculum-2.0.4.mrpack",
+        "https://gh-proxy.com/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v2.0.4/cuniculum-2.0.4.mrpack",
+        "https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v2.0.4/cuniculum-2.0.4.mrpack"
       ]
     }
   ]
