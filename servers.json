@@ -1,15 +1,15 @@
 {
   "servers": [
     {
-      "id": "survival",
+      "id": "cuniculum",
       "name": "服务器一",
-      "title": "生存服",
-      "version": "1.0.15",
+      "title": "CUNICULUM",
+      "version": "2.0.0",
       "address": "frp-art.com:60758",
       "packs": [
-        "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.15/yunlan-client-1.0.15.mrpack",
-        "https://gh-proxy.com/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.15/yunlan-client-1.0.15.mrpack",
-        "https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v1.0.15/yunlan-client-1.0.15.mrpack"
+        "https://ghfast.top/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v2.0.0/cuniculum-2.0.0.mrpack",
+        "https://gh-proxy.com/https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v2.0.0/cuniculum-2.0.0.mrpack",
+        "https://github.com/ASDFGHJKL830401/yunlan-packs/releases/download/client-v2.0.0/cuniculum-2.0.0.mrpack"
       ]
     }
   ]
